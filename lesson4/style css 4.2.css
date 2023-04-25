@@ -1,0 +1,18 @@
+#form{
+  width: 25vw;
+  height: 60vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+}
+.one{
+  width: 95%;
+  height: 85%;
+  border: 1px solid darkgray;
+}
+.two{
+  width: 95%;
+  height: 10%;
+  border: 1px solid darkgray;
+}
